@@ -38,6 +38,7 @@ All you need is [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) a
 
 ## To-Do
 
+ - Find a way to separate other content like fonts, etc.
  - Find a way to exclude external dependencies
  - Find a way to generate source-maps
  - Find a way to build UMD modules
