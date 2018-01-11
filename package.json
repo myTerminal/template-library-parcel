@@ -5,7 +5,7 @@
   "main": "build/scripts/template-library.js",
   "scripts": {
     "develop": "parcel watch src/scripts/template-library.js -d build",
-    "build": "parcel src/scripts/template-library.js -d build",
+    "build": "parcel build src/scripts/template-library.js -d build",
     "lint": "jshint src/scripts/**/* && jscs src/scripts/**/*"
   },
   "repository": {
