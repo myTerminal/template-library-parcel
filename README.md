@@ -1,8 +1,6 @@
 # template-library-parcel
 
-[![Code Climate](https://codeclimate.com/github/myTerminal/template-library-parcel.png)](https://codeclimate.com/github/myTerminal/template-library-parcel)
-[![bitHound Overall Score](https://www.bithound.io/github/myTerminal/template-library-parcel/badges/score.svg)](https://www.bithound.io/github/myTerminal/template-library-parcel)
-[![bitHound Code](https://www.bithound.io/github/myTerminal/template-library-parcel/badges/code.svg)](https://www.bithound.io/github/myTerminal/template-library-parcel)  
+[![Code Climate](https://codeclimate.com/github/myTerminal/template-library-parcel.png)](https://codeclimate.com/github/myTerminal/template-library-parcel)  
 [![Dependency Status](https://david-dm.org/myTerminal/template-library-parcel.svg)](https://david-dm.org/myTerminal/template-library-parcel)
 [![devDependency Status](https://david-dm.org/myTerminal/template-library-parcel/dev-status.svg)](https://david-dm.org/myTerminal/template-library-parcel#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/template-library-parcel/peer-status.svg)](https://david-dm.org/myTerminal/template-library-parcel#info=peerDependencies)  
