@@ -29,7 +29,7 @@ All you need is [parcel-bundler](https://www.npmjs.com/package/parcel-bundler) a
 
 #### Commands
 
- - `npm run develop` to instruct parcel-bundler to build the library and keep watching for file changes within source.
+ - `npm run develop` to instruct parcel-bundler to build the library and keep watching for file changes within the source.
  - `npm run build` to instruct parcel-bundler to build the library and stop.  
  - `npm run lint` to run ESLint on all JavaScript source files.
 
