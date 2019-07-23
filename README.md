@@ -4,7 +4,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/template-library-parcel.svg)](https://david-dm.org/myTerminal/template-library-parcel)
 [![devDependency Status](https://david-dm.org/myTerminal/template-library-parcel/dev-status.svg)](https://david-dm.org/myTerminal/template-library-parcel#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/template-library-parcel/peer-status.svg)](https://david-dm.org/myTerminal/template-library-parcel#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 A template to create front-end libraries with [Parcel.js](https://parceljs.org) as the bundler [in-progress]
 
