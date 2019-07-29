@@ -1,9 +1,5 @@
 # template-library-parcel
 
-[![Code Climate](https://codeclimate.com/github/myTerminal/template-library-parcel.png)](https://codeclimate.com/github/myTerminal/template-library-parcel)  
-[![Dependency Status](https://david-dm.org/myTerminal/template-library-parcel.svg)](https://david-dm.org/myTerminal/template-library-parcel)
-[![devDependency Status](https://david-dm.org/myTerminal/template-library-parcel/dev-status.svg)](https://david-dm.org/myTerminal/template-library-parcel#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/template-library-parcel/peer-status.svg)](https://david-dm.org/myTerminal/template-library-parcel#info=peerDependencies)  
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 A template to create front-end libraries with [Parcel.js](https://parceljs.org) as the bundler [in-progress]
