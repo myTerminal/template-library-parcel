@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "parcel watch src/scripts/template-library.js -d build",
     "build": "parcel build src/scripts/template-library.js -d build",
-    "lint": "eslint src/scripts"
+    "lint": "eslint ./src/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -25,10 +25,12 @@
     "jquery": "3.3.1"
   },
   "devDependencies": {
+    "babel-eslint": "10.0.2",
     "babel-preset-env": "1.6.1",
     "effortless-css": "0.10.1",
     "eslint": "4.19.1",
     "eslint-config-airbnb": "16.1.0",
+    "eslint-config-myterminal": "0.9.1",
     "eslint-plugin-import": "2.11.0",
     "eslint-plugin-jsx-a11y": "6.0.3",
     "eslint-plugin-react": "7.7.0",
